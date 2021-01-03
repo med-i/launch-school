@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-# Exercise 5:
 # Look at the following programs...
 #
 # x = 0

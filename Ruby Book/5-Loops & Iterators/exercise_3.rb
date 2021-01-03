@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-# Exercise 3:
 # Write a method that counts down to zero using recursion.
 
 def count_down(number)

@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-# Exercise 5:
 # When you run the following code...
 
 # =>  def equal_to_four(x)

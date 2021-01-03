@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-# Exercise 2:
 # What do the following expressions evaluate to?
 
 # 1. x = 2

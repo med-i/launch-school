@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-# Exercise 6:
 # What does the following error message tell you?
 
 # ArgumentError: wrong number of arguments (1 for 2)

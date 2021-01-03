@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-# Exercise 7:
 # What does the following error message tell you?
 
 # SyntaxError: (irb):2: syntax error, unexpected ')', expecting '}'
